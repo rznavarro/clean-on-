@@ -1,0 +1,6 @@
+{
+  "name": "Clean One — Lavado de Tapiz, Colchones y Alfombras",
+  "description": "Servicio familiar de lavado de sillones, colchones, alfombras y tapiz de auto con vapor a presión en Santiago y Zona Sur de Chile. Cotiza directo por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
